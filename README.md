@@ -1,6 +1,5 @@
 # foodshare
 
-A new Flutter project.
 
 ## Tracking of Expiration Dates of Food for Donations
 Out of Date? Time to Donate!
@@ -9,7 +8,11 @@ Our app helps grocery stores reduce waste. When fresh goods arrive, the app reco
 
 ## Setup
 
-tbd
+1. Visit the [Flutter WebPage](https://docs.flutter.dev/get-started/install) and follow the guide to install Flutter
+2. You'll need to download Android Studio for Android SDK (This is just for setup/ coding can still be done in your preferred editor VSCode, IntellIJ etc.)
+3. For testing and debugging you have following options:
+- download an android emulator to run the application there
+- connect your phone via USB with your device and run the app directly from your phone
 
 ## Contributors
 
