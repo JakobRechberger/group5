@@ -2,6 +2,19 @@
 
 A new Flutter project.
 
+## Tracking of Expiration Dates of Food for Donations
+Out of Date? Time to Donate!
+
+Our app helps grocery stores reduce waste. When fresh goods arrive, the app records their expiration dates. As soon as food expires, the app alerts local charities who can then pick it up for reuse. This simple process helps stores manage inventory, prevents waste, and supports the community
+
+## Setup
+
+tbd
+
+## Contributors
+
+tbd
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
